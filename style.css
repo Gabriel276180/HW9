@@ -1,0 +1,15 @@
+img{
+    height: 400px;
+    width: 400px;
+    border-color: black;
+}
+html, body {
+    height: 100%;
+}
+
+body {
+
+    margin: 0;
+    background: linear-gradient(45deg,
+   #feac5e,#C779D0,#4bc0c8 );
+}
